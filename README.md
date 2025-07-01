@@ -62,7 +62,7 @@
 
 <h3>📊 GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cs23b2009&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cs23b2009&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cs23b2009&theme=vue-dark&hide_border=true" alt="Top Langs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs23b2009&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" /></p>
 
 ![Snake animation](https://github.com/cs23b2009/blahblah/blob/main/github-user.svg)
