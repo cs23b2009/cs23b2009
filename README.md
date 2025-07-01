@@ -13,8 +13,8 @@
 
 ---
 
-- 🌱 I’m currently learning: **Next.js ⚡ | Tailwind CSS 🎨 | LangChain 🧠 | MongoDB Atlas 🍃**
-- 💬 Ask me about: **React ⚛️ | C++ 🧮 | DSA 📊 | Optimization ⚙️ | Prompt Engineering 🤖**
+- 🌱 I’m currently learning: **Next.js ⚡ | Tailwind CSS 🎨 | LangChain 🧠**
+- 💬 Ask me about: **React ⚛️ | Optimization ⚙️ | Prompt Engineering 🤖**
 - 📫 How to reach me: **indrakumar45919@gmail.com**
 ---
 
