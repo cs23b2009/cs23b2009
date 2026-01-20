@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/indra-kumar-hi369">LinkedIn</a> •
   <a href="https://github.com/cs23b2009">GitHub</a> •
-  <a href="https://leetcode.com/u/indra3699/">LeetCode</a> •
+  <a href="https://leetcode.com/u/indrakumar45919/">LeetCode</a> •
   <a href="https://portfolio-3bp0.onrender.com">Portfolio</a>
 </p>
 
