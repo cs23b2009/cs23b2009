@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/indra-kumar-hi369">LinkedIn</a> •
-  <a href="https://github.com/cs23b2009">GitHub</a> •
-  <a href="https://portfolio-3bp0.onrender.com">Portfolio</a>
+  <a href="https://github.com/cs23b2009">GitHub</a> 
 </p>
 
 ---
