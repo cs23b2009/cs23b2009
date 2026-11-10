@@ -16,7 +16,7 @@ AI/ML • Backend Development • Competitive Programming
 - 🌱 Learning **System Design, Distributed Systems, Cloud Computing, MLOps, and Generative AI**
 - 👯 Open to collaborating on **Open Source, AI/ML, Backend Development, and System Design projects**
 - 💬 Ask me about **Data Structures & Algorithms, Competitive Programming, C++, AI/ML, Backend Development, DBMS, Operating Systems, and System Design**
-- 📫 Reach me at **indrakumarai369@gmail.com**
+- 📫 Reach me at **dasapathiindrakumar@gmail.com**
 - 👨‍💻 Projects: **github.com/cs23b2009**
 - 📄 LinkedIn: **linkedin.com/in/indra-kumar-hi369**
 
